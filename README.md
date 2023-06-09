@@ -1,14 +1,11 @@
 # Components
 
-- [ ] Text
-- [ ] Heading
-- [ ] Box
-- [ ] Button
-- [ ] TextInput
-- [ ] TextArea
-- [ ] Checkbox
-- [ ] Avatar
-- [ ] MultiStep
-
-- To configure storybook 
-npx sb init --builder @storybook/builder-vite --type react --use-npm 
+- [x] Text
+- [x] Heading
+- [x] Box
+- [x] Button
+- [x] TextInput
+- [x] TextArea
+- [x] Checkbox
+- [x] Avatar
+- [x] MultiStep
